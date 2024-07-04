@@ -7,7 +7,6 @@ Este projeto consiste em um teclado de música interativo construído com HTML, 
 Este projeto oferece uma experiência interativa e divertida para os entusiastas da música e entusiastas da interatividade na web. Experimente criar suas próprias melodias e explore as possibilidades musicais deste teclado virtual!
 
 Para mais detalhes sobre a implementação e funcionamento do projeto, consulte o código-fonte disponível neste repositório.
-
 Aproveite e divirta-se criando música com o Teclado de Música Interativo! 🎵🎹🎶
 
 ## Recursos do Projeto
@@ -24,7 +23,6 @@ Aproveite e divirta-se criando música com o Teclado de Música Interativo! 🎵
 ### 👷‍♂️ Autores / Colaboradores
 
 * **Vanessa Me Tonini** - *Instrutor Frontend do projeto* - [@vanessametonini](https://github.com/vanessametonini)
-
 * **Arthur Cavalcante** - *Frontend do projeto* - [@Thurcavalcante](https://github.com/Thurcavalcante)
 
 ### 🔗 Deploy: [Midi](https://thurcavalcante.github.io/alura-midi/)
